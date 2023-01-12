@@ -4,3 +4,4 @@ This project is tested with GTX 1050
 This algorithm is sensitive to light and position of the video camera
 This algorithm is tested for only one people, you can test it with more positive and anchor values if you want
 I haven't tested this algorithm with similar faces
+Github displays only 1000 photo of humans
